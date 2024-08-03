@@ -12,3 +12,12 @@
 .imagem_3{
     width: 500px;
 }
+
+.pagina2_imagem1{
+    width: 500px;
+    align-items:self-start;
+}
+
+.pagina2_imagem2{
+    width: 500px;
+}
